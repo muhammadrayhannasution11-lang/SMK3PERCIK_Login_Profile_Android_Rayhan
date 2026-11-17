@@ -1,0 +1,5 @@
+saat user membuka aplikasi user akan di minta memasukan email dan password
+setelah itu system akan memeriksa apakah email dan password sudah pernah login atau belum jika sudah akan langsung ke halaman profil
+namun jika belum pernah login/tidak memiliki akun maka user akan di minta untuk membuat akun dan di arahkan ke halaman daftar akun
+lalu user di minta memasukan username dan password lalu password akan di verifikasi ulang,lalu setelah system telah menyimpan data user
+maka user akan di bawa Kembali ke halaman login,lalu system akan memeriksa Kembali apakah data user sudah ada,jika sudah maka akan di arahkan ke halam profil
