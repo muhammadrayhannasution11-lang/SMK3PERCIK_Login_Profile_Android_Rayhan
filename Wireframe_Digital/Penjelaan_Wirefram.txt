@@ -1,0 +1,3 @@
+di halaman 1 itu adalah halaman untuk user untuk login.memasukan email dan password
+lalu halaman 2 tempat user daftar,user di minta memasukan email dan password
+lalu halaman ke 3 untuk bagian profil jika data user telah di simpan oleh system
