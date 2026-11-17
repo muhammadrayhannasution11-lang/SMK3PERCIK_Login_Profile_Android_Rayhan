@@ -1,0 +1,8 @@
+user masuk ke halaman login
+lalu memasukan username dan password 
+sytem memeriksa username dan password
+jika alamat email/user name dan password belum ada maka halaman akan berpindah ke halaman daftar
+lalu user akan memasukan alamat email dan password 
+setelah system menyimpan data user maka user akan
+Kembali ke halaman login dan di minta untuk memasukan username dan password
+lalu user akan di arahkan ke halaman profil
