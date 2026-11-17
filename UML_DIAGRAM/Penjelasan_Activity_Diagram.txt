@@ -1,0 +1,8 @@
+awal nya user akan di minta memasukan username dan password 
+setelah itu system akan memeriksa apa data user ada atau tidak
+lalu jika tidak ada maka user akan di arah ke halaman daftar 
+lalu user akan memasukan email dan password
+setelah itu system akan menyimpan data dari user 
+lalu use akan di bawa ke halaman login
+dan sytem memeriksa bahwa akun sudah ada
+lalu akan diarahkaan ke halaman profil
